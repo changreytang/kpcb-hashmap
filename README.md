@@ -11,9 +11,9 @@ mvn clean package
 ```
 
 #### Valid Commands
-- set <key> <value>
-- get <key>
-- delete <key>
+- set \<key\> \<value\>
+- get \<key\>
+- delete \<key\>
 - load
 - print
 
